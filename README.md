@@ -1,16 +1,34 @@
-### Hi there 👋
+# Julia Oliveira
 
-<!--
-**JuliaOliveiraa/JuliaOliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! 👋 Eu sou Julia, um entusiasta de C# apaixonado por desenvolvimento backend e tecnologia. Sempre em busca de soluções elegantes para problemas complexos, estou animado em compartilhar meus projetos e conhecimentos com a comunidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Atualmente trabalhando na Nuria.
+
+## Tecnologias
+
+Aqui estão algumas das tecnologias que adoro trabalhar:
+
+- 🔷 C#
+- 🌐 ASP.NET Core
+- 🎲 Entity Framework Core
+- 🛢️ SQL Server
+
+## Atualmente Aprendendo
+
+- 🌱 Explorando arquiteturas de microsserviços
+- 🌐 Aprofundando em design de APIs RESTful
+
+<!-- <div align="center">
+  
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuliaOliveiraa&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div> -->
+
+## Contato
+
+Fique à vontade para entrar em contato comigo:
+
+- 📧 E-mail: oliveiradesilvajulia@gmail.com
+- 💬 Mensagem Direta no [LinkedIn](https://www.linkedin.com/in/julia-oliveira-47a1541a1/)
