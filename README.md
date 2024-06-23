@@ -2,8 +2,7 @@
 
 ## Sobre Mim
 
-Olá! 👋 Eu sou Julia, um entusiasta de C# apaixonado por desenvolvimento backend e tecnologia. Sempre em busca de soluções elegantes para problemas complexos, estou animado em compartilhar meus projetos e conhecimentos com a comunidade.
-
+Olá! 👋 Eu sou Julia, um entusiasta de C# apaixonado por desenvolvimento backend e tecnologia. 
 - 🚀 Atualmente trabalhando na Nuria.
 
 ## Tecnologias
@@ -19,6 +18,7 @@ Aqui estão algumas das tecnologias que adoro trabalhar:
 
 - 🌱 Explorando arquiteturas de microsserviços
 - 🌐 Aprofundando em design de APIs RESTful
+- 🔷 RabbitMQ
 
 <!-- <div align="center">
   
